@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/ny.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.main{
+  
+    
+
+}
+
+/* navbar */
+.box{
+    height: 60px;
+    background-color: rgb(18, 17, 17);
+
+
+}
+/* .parul{
+   position: relative;
+   left: 1200px;
+   bottom: 35px;
+   color: white; 
+} */
+.box ul{
+    
+    display: flex;
+   
+    
+}
+ .box ul li{
+
+    list-style-type: none;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    
+    
+    
+ }
+ .box a{
+   text-decoration: none;
+ }
+ .box a:hover{
+   /* text-decoration: none;  */
+    color: rgb(173, 173, 188);
+
+   
+
+ }
+ .main2 h2{
+    margin: 330px;
+   text-align: center;
+    color: rgb(203, 45, 45);
+ }
+ /* nav close */
+ .box1{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+ }
+ h1{
+    margin: 20px;
+ }
+ h2{
+    margin: 10px;
+    
+ }
+ p{
+    margin: 20px;
+ }
+ .box3{
+    display: flex;
+    text-align: center;
+   
+ }
+ .box3 img{
+    margin: 30px;
+ }
+ .box4{
+   width: 100%;
+   height: 1000px;
+   background-color: black;
+  
+ }
+ .row{
+   position: relative;
+   top: 20px;
+ }
+ .box4{
+   text-align: center;
+   color: white;
+   font-size: medium;
+
+ 
+
+ }
+ .box4 h1{
+ margin: 20px;
+ }
+ .box4 h3{
+   margin: 20px;
+ }
+.box5{
+   background-color: white;
+   width: 600px;
+   margin: auto;
+   position: relative;
+   top: 20px;
+   
+}
+.box5 h2{
+   color: black;
+   position: relative;
+   right: 230px;
+   
+}
+.bos{
+   display: flex;
+   margin: 5px;
+   /* background-color: white; */
+   /* border: 2px solid white; */
+}
+.bos img{
+   
+   margin: 5px;
+   position: relative;
+   margin-top: 100px;
+}
+.bos .btn{
+
+   width: 100px;
+   height: 50px;
+   
+}
+.bos .btn:hover{
+   background-color: brown;
+}
+.box10{
+   text-align: center;
+   position: relative;
+   top: 20px;
+}
+.box11{
+   display: flex;
+   margin: 50px;
+  
+}
+.box13{
+   position: relative;
+   left: 200px;
+}
+.box14{
+   position: relative;
+   left: 300px;
+   top: 10px;
+}
+.btm{
+   position: relative;
+   left: 908px;
+   bottom: 144px;
+   
+}
+.box12{
+   width: 50%;
+   height: 30vh;
+   margin: auto;
+   position: relative;
+   top: 60px;
+   left: 200px;
+}
